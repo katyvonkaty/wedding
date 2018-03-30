@@ -1,0 +1,146 @@
+@import 'vendors/_bootstrap.scss';
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif');
+
+*{
+  margin:0; padding:0;
+}
+
+/* =============================================================================
+  HTML, BODY
+============================================================================= */
+// html,
+// body {
+//   height: 100%;
+//   width:100%;
+// }
+
+body {
+  font-size: 14px;
+  font-family: 'PT Sans', sans-serif;
+  line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'PT Serif', serif; 
+}
+
+
+/* =============================================================================
+  NAVBAR
+============================================================================= */
+.navbar{
+  margin-bottom: 0;
+  border-bottom: 1px solid rgba(255,255,255, 0.3);
+  z-index:15;
+  width:100%;
+}
+
+.navbar-nav{
+  display:inline-block;
+}
+
+.navbar-brand{
+  font-family:'PT Serif', serif; 
+  font-weight: 700;
+}
+
+.navbar-fixed-top {
+  background-color:transparent;
+
+}
+
+.navbar-brand:focus{
+  outline: none;
+}
+
+.navbar-custom a{
+  color: white;
+}
+
+.navbar-custom .nav li a{
+  transition: background .3s ease-in-out;
+}
+
+.navbar-custom .nav li a:hover{
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar-toggle {
+  padding: 4px 6px;
+  font-size: 16px;
+  color: white;
+}
+
+.page-scroll{
+  -webkit-transition-property: -webkit-transform;
+  -webkit-transition-duration: 1s;
+}
+
+//////////
+
+////// HEADER ////////////////
+
+#header {
+  h1{
+    font-size:50px;
+    text-align:center;
+    margin-top:-5px;
+    color:white;
+  }
+  p {
+    text-align:center;
+    font-size:25px;
+    margin-top:170px;
+    color:white;
+  }
+  .container {
+    background-image:url('../images/header.png');
+    background-size:cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: top center;
+    min-height:850px;
+    width:95%;
+  }
+}
+
+#gallery {
+
+  margin-top:100px;
+  margin-bottom:100px;
+
+  img {
+    width:100%;
+    margin:0 auto;
+  }
+}
+
+#about {
+  margin-top:100px;
+   margin-bottom:100px;
+}
+
+#cleanser {
+  h1{
+    font-size:50px;
+    text-align:center;
+    margin-top:-5px;
+    color:white;
+  }
+  p {
+    text-align:center;
+    font-size:25px;
+    margin-top:170px;
+    color:white;
+  }
+  .container {
+    background-image:url('../images/cleanse.jpg ');
+    background-size:cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    min-height:850px;
+    width:95%;
+  }
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+
+	<section id="nav">
+	    <nav class="navbar navbar-custom navbar-fixed-top">
+	      <div class="container">
+	        <div class="navbar-header page-scroll">
+	          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	            <span class="sr-only">Toggle navigation</span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </button>
+	          <a class='navbar-brand' href='/'> Mr. & Mrs. Watson </a>
+	        </div>
+	        <div id="navbar" class="collapse navbar-collapse navbar-right navbar-main-collapse">
+	          <ul class="nav navbar-nav">
+	            <li class='hidden'>
+	              <a href="#page-top"></a>
+	            </li>
+	            <li class='page-scroll'>
+	              <a href="#why">Gallery</a>
+	            </li> 
+	            <li class='page-scroll'>
+	              <a href="#who"> About Us</a>
+	            </li> 
+	            <li class='page-scroll'>
+	              <a href="#clients">Contact</a>
+	            </li>  
+	          </ul>
+	        </div><!--/.nav-collapse -->
+	      </div>
+	    </nav>
+  	</section>
+
+
+	<section id="header">
+	  <div class='container'>
+		  <div class='row'>
+			<div class='col-sm-12'>
+			  <p> Hudson New York </p>
+			  <h1> We're Getting Married </h1>
+	  		</div>
+	  	</div>
+	  </div>
+	</section>
+
+	<section id="gallery">
+		<div class='container'>
+			<div class='row'>
+				<div class='col-sm-4'>
+					<img src='images/image1.jpg'>
+				</div>
+				<div class='col-sm-4'>
+					<img src='images/image1.jpg'>
+				</div>
+				<div class='col-sm-4'>
+					<img src='images/image1.jpg'>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="about">
+		<div class='container'>
+			<div class='row'>
+				<div class='col-sm-3'>
+				<h1> Chartreuse woke cardigan hoodie distillery. </h1>
+				</div>
+				<div class='col-sm-8'>
+				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="cleanser">
+	  <div class='container'>
+		  <div class='row'>
+			<div class='col-sm-12'>
+			  <h1> We can't wait to see you </h1>
+			  <button> Contact Us </button>
+	  		</div>
+	  	</div>
+	  </div>
+	</section>
+
+
+    
+  </body>
+</html>
