@@ -94,14 +94,13 @@ h1,h2,h3,h4,h5,h6 {
     margin-top:170px;
     color:white;
   }
-  .container {
+  .container-fluid {
     background-image:url('../images/header.png');
     background-size:cover;
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-position: top center;
     min-height:650px;
-    width:95%;
   }
 }
 
@@ -121,11 +120,34 @@ h1,h2,h3,h4,h5,h6 {
    margin-bottom:100px;
 }
 
+p {
+  margin-top:30px;
+}
+
+button {
+    border: 2px solid #c6c5b3;
+    padding: 20px;
+    width: 37%;
+    text-transform: uppercase;
+}
+
+
+
 #cleanser {
+  button {
+    border: 2px solid #c6c5b3;
+    padding: 20px;
+    width: 37%;
+    display:block;
+    margin:0 auto;
+    text-transform: uppercase;
+    background-color:transparent;
+    color:white;
+  }
   h1{
     font-size:50px;
     text-align:center;
-    margin-top:-5px;
+    margin-top:220px;
     color:white;
   }
   p {
@@ -134,12 +156,11 @@ h1,h2,h3,h4,h5,h6 {
     margin-top:170px;
     color:white;
   }
-  .container {
+  .container-fluid {
     background-image:url('../images/jenn.jpg ');
     background-size:cover;
     background-attachment:fixed;
     background-repeat: no-repeat;
     min-height:550px;
-    width:95%;
   }
 }

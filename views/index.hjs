@@ -41,7 +41,7 @@
 
 
 	<section id="header">
-	  <div class='container'>
+	  <div class='container-fluid'>
 		  <div class='row'>
 			<div class='col-sm-12'>
 			  <p> Hudson New York </p>
@@ -55,13 +55,13 @@
 		<div class='container'>
 			<div class='row'>
 				<div class='col-sm-4'>
-					<img src='images/image1.jpg'>
+					<img src='images/lovebirds1.png'>
 				</div>
 				<div class='col-sm-4'>
-					<img src='images/image1.jpg'>
+					<img src='images/lovebirds2.png'>
 				</div>
 				<div class='col-sm-4'>
-					<img src='images/image1.jpg'>
+					<img src='images/lovebirds3.png'>
 				</div>
 			</div>
 		</div>
@@ -75,13 +75,14 @@
 				</div>
 				<div class='col-sm-8'>
 				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
+				<button> Our History </button>
 				</div>
 			</div>
 		</div>
 	</section>
 
 	<section id="cleanser">
-	  <div class='container'>
+	  <div class='container-fluid'>
 		  <div class='row'>
 			<div class='col-sm-12'>
 			  <h1> We can't wait to see you </h1>
