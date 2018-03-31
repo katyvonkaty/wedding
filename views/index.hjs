@@ -22,16 +22,16 @@
 	        <div id="navbar" class="collapse navbar-collapse navbar-right navbar-main-collapse">
 	          <ul class="nav navbar-nav">
 	            <li class='hidden'>
-	              <a href="#page-top"></a>
+	              <a href="galler"></a>
 	            </li>
 	            <li class='page-scroll'>
-	              <a href="#why">Gallery</a>
+	              <a href="gallery.hjs">Gallery</a>
 	            </li> 
 	            <li class='page-scroll'>
-	              <a href="#who"> About Us</a>
+	              <a href="gallery.hjs"> About Us</a>
 	            </li> 
 	            <li class='page-scroll'>
-	              <a href="#clients">Contact</a>
+	              <a href="gallery.hjs">RSVP</a>
 	            </li>  
 	          </ul>
 	        </div><!--/.nav-collapse -->
