@@ -31,10 +31,10 @@
 	              <a href="#gallery">Gallery</a>
 	            </li> 
 	            <li class='page-scroll'>
-	              <a href="#about"> About Us</a>
+	              <a href="#about1"> About Us</a>
 	            </li> 
 	            <li class='page-scroll'>
-	              <a href="#rsvp">RSVP</a>
+	              <a href="#testing">RSVP</a>
 	            </li>  
 	          </ul>
 	        </div><!--/.nav-collapse -->
@@ -92,7 +92,7 @@
 	  </div>
 	</section>
 
-	<section id="about" class='section scrollspy'>
+	<section id="about1" class='section scrollspy'>
 		<div class='container'>
 			<div class='row justify-content-center'>
 				<div class='col-sm-4'>

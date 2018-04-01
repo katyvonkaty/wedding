@@ -40,6 +40,10 @@ h1,h2,h3,h4,h5,h6 {
   display:inline-block;
 }
 
+.navbar-custom .nav li a:hover{
+  background-color: transparent !important;
+}
+
 .navbar-brand{
   font-family:'PT Serif', serif; 
   font-weight: 700;
@@ -126,6 +130,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #about {
+  margin-top:100px;
+   margin-bottom:100px;
+}
+
+#about1 {
   margin-top:100px;
    margin-bottom:100px;
 }
