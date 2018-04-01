@@ -133,6 +133,11 @@ button {
     text-transform: uppercase;
 }
 
+hr {
+  width:40%;
+  margin:0 auto;
+  margin-bottom:20px;
+}
 
 
 #cleanser {
@@ -164,5 +169,49 @@ button {
     background-attachment:fixed;
     background-repeat: no-repeat;
     min-height:550px;
+  }
+}
+
+#ending {
+  button {
+    border: 2px solid #c6c5b3;
+    padding: 20px;
+    width: 37%;
+    display:block;
+    margin:0 auto;
+    text-transform: uppercase;
+    background-color:transparent;
+    color:white;
+  }
+  h1{
+    font-size:50px;
+    text-align:center;
+    margin-top:250px;
+    color:white;
+  }
+  p {
+    text-align:center;
+    font-size:25px;
+    margin-top:170px;
+    color:white;
+  }
+  .container-fluid {
+    background-image:url('../images/cute.png ');
+    background-size:cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    min-height:550px;
+  }
+}
+
+#testing {
+  margin:0 auto;
+  display:block;
+  text-align: center;
+}
+
+#gallery{
+  #lastly{
+    margin-top:23px;
   }
 }

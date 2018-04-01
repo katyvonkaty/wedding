@@ -46,6 +46,7 @@
 		  <div class='row'>
 			<div class='col-sm-12'>
 			  <p> Hudson New York </p>
+			  <hr>
 			  <h1> We're Getting Married </h1>
 	  		</div>
 	  	</div>
@@ -85,34 +86,65 @@
 	<section id="cleanser">
 	  <div class='container-fluid'>
 		  <div class='row'>
-			<div class='col-sm-12'>
-			  <h1> We can't wait to see you </h1>
-			  <button> Contact Us </button>
-	  		</div>
 	  	</div>
 	  </div>
 	</section>
 
 	<section id="about">
 		<div class='container'>
-			<div class='row'>
-				<div class='col-sm-3'>
+			<div class='row justify-content-center'>
+				<div class='col-sm-4'>
 				<h1> Chartreuse woke cardigan hoodie distillery. </h1>
 				</div>
-				<div class='col-sm-8'>
+				<div class='col-sm-4'>
 				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
-				<button> <a href='https://www.google.com/'> THE VENUE </a> </button>
+				</div>
+				<div class='col-sm-4'>
+				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
 				</div>
 			</div>
 		</div>
 	</section>
 
+
+	<section id='gallery'>
+		<div class='container'>
+			<div class='row'>
+				<div class='col-sm-8'>
+				<img src='images/1.png'>
+				</div>
+				<div class='col-sm-4'>
+				<img src='images/2.png'>
+				</div>
+				<div class='col-sm-4' id='lastly'>
+				<img src='images/3.png'>
+				</div>
+			</div>
+		</div>
+	</section>
+
+   	<section id="ending">
+	  <div class='container-fluid'>
+		  <div class='row'>
+			<div class='col-sm-12'>
+			  <h1> We can't wait to see you </h1>
+	  		</div>
+	  	</div>
+	  </div>
+	</section>
+
 	<section id="testing">
-	 <div>
-        <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-        <p><a href="mailto:jenn.ashleigh@gmail.com">Please send me an email!</a></p>
+	<div class='row'>
+		 <div class='col-md-6 col-md-offset-3'>
+			<!--  <div class='col-sm-8'> -->
+			 <h3> Please let us know if you are attending! As well as your mailing address and some other stuff! Thanks! 
+			 <br> xoxo Jenn and Andrew</h3>
+		       <i class="fa fa-envelope-o fa-3x sr-contact"> </i>
+		        <p> <a href="mailto:jenn.ashleigh@gmail.com">Email me here!</a></p>
+	     </div>
      </div>
-     </section>
+    </section>
+
 
 
     
