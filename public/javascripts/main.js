@@ -1,16 +1,4 @@
-    (function() {
-  /**
-   * Video element
-   * @type {HTMLElement}
-   */
-    var video = document.getElementById("my-video");
-    /**
-     * Check if video can play, and play it
-     */
-    video.addEventListener( "canplay", function() {
-      video.play();
-    });
-  })();
+
 
 $(window).scroll(function(){
   if($('.navbar').offset().top >550 ){
@@ -20,6 +8,11 @@ $(window).scroll(function(){
 
   }
 })
+
+ $(document).ready(function(){
+    $('.scrollspy').scrollSpy();
+  });
+       
 
 
 $(function(){
