@@ -106,6 +106,15 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #gallery {
+  
+    .col-sm-4 {
+      margin-top:30px;
+
+      @media(min-width:767px){
+      margin-top:0px;
+
+    }
+  }
 
   margin-top:100px;
   margin-bottom:100px;
@@ -216,7 +225,21 @@ hr {
   color:yellow;
 }
 
-#gallery{
+#gallery2{
+  margin-top:100px;
+  margin-bottom:100px;
+
+   img {
+    width:100%;
+    margin:0 auto;
+  }
+  #secondly {
+    margin-top:30px;
+    @media(min-width: 767px){
+      margin-top:0;
+    }
+  }
+  
   #lastly{
     margin-top:23px;
   }
