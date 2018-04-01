@@ -61,10 +61,10 @@
 				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='1300'>
 					<img src='images/lovebirds1.png'>
 				</div>
-				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='1300'>
+				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='1900'>
 					<img src='images/lovebirds2.png'>
 				</div>
-				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='1300'>
+				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='2500'>
 					<img src='images/lovebirds3.png'>
 				</div>
 			</div>
