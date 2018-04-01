@@ -58,13 +58,13 @@
 	<section id="gallery" class='section scrollspy'>
 		<div class='container'>
 			<div class='row'>
-				<div class='col-sm-4'>
+				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='1300'>
 					<img src='images/lovebirds1.png'>
 				</div>
-				<div class='col-sm-4'>
+				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='1300'>
 					<img src='images/lovebirds2.png'>
 				</div>
-				<div class='col-sm-4'>
+				<div class='col-sm-4' data-aos='fade-up' data-aos-duration='1300'>
 					<img src='images/lovebirds3.png'>
 				</div>
 			</div>
@@ -74,10 +74,10 @@
 	<section id="about" class='section scrollspy'>
 		<div class='container'>
 			<div class='row'>
-				<div class='col-sm-3'>
+				<div class='col-sm-3' data-aos='slide-up' data-aos-duration='1300'>
 				<h1> Chartreuse woke cardigan hoodie distillery. </h1>
 				</div>
-				<div class='col-sm-8'>
+				<div class='col-sm-8' data-aos='slide-up' data-aos-duration='1300'>
 				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
 				<button> <a href='https://www.google.com/'> THE VENUE </a> </button>
 				</div>
@@ -96,12 +96,12 @@
 		<div class='container'>
 			<div class='row justify-content-center'>
 				<div class='col-sm-4'>
-				<h1> Chartreuse woke cardigan hoodie distillery. </h1>
+				<h1 data-aos='slide-up' data-aos-duration='1300'> Chartreuse woke cardigan hoodie distillery. </h1>
 				</div>
-				<div class='col-sm-4'>
+				<div class='col-sm-4' data-aos='slide-up' data-aos-duration='1300'>
 				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
 				</div>
-				<div class='col-sm-4'>
+				<div class='col-sm-4' data-aos='slide-up' data-aos-duration='1300'>
 				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
 				</div>
 			</div>
@@ -113,13 +113,13 @@
 		<div class='container'>
 			<div class='row'>
 				<div class='col-sm-8'>
-				<img src='images/1.png'>
+				<img src='images/1.png' data-aos='fade-up' data-aos-duration='1300'>
 				</div>
 				<div class='col-sm-4'>
-				<img src='images/2.png'>
+				<img src='images/2.png' data-aos='fade-up' data-aos-duration='1300'>
 				</div>
 				<div class='col-sm-4' id='lastly'>
-				<img src='images/3.png'>
+				<img src='images/3.png' data-aos='fade-up' data-aos-duration='1300'>
 				</div>
 			</div>
 		</div>
@@ -139,10 +139,10 @@
 	<div class='row'>
 		 <div class='col-md-6 col-md-offset-3'>
 			<!--  <div class='col-sm-8'> -->
-			 <h3> Please let us know if you are attending! As well as your mailing address and some other stuff! Thanks! 
+			 <h3 data-aos='slide-up' data-aos-duration='1300'> Please let us know if you are attending! As well as your mailing address and some other stuff! Thanks! 
 			 <br> xoxo Jenn and Andrew</h3>
-		       <i class="fa fa-envelope-o fa-3x sr-contact"> </i>
-		        <p> <a href="mailto:jenn.ashleigh@gmail.com">Email me here!</a></p>
+		       <i class="fa fa-envelope-o fa-3x sr-contact" data-aos='zoom-in-up' data-aos-duration='1300'> </i>
+		        <p> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></p>
 	     </div>
      </div>
     </section>
