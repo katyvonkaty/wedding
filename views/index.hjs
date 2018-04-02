@@ -32,7 +32,7 @@
 	              <a href="#gallery">Gallery</a>
 	            </li> 
 	            <li class='page-scroll'>
-	              <a href="#about1"> About Us</a>
+	              <a href="#about1"> Lodging</a>
 	            </li> 
 	            <li class='page-scroll'>
 	              <a href="#testing">RSVP</a>
@@ -56,6 +56,8 @@
 	  </div>
 	</section>
 
+
+
 	<section id="gallery" class='section scrollspy'>
 		<div class='container'>
 			<div class='row'>
@@ -75,12 +77,24 @@
 	<section id="about" class='section scrollspy'>
 		<div class='container'>
 			<div class='row'>
-				<div class='col-sm-3' data-aos='slide-up' data-aos-duration='1300'>
-				<h1> Chartreuse woke cardigan hoodie distillery. </h1>
+				<div class='col-sm-5' data-aos='slide-up' data-aos-duration='1300'>
+				<h1> WHERE </h1>
+				<p> The Barn at Liberty Farms <p> 
+				<p> 60 Ostrander Rd, Ghent, NY 12075 </p>
+				<p>  (917) 539-9283 </p>
+
 				</div>
-				<div class='col-sm-8' data-aos='slide-up' data-aos-duration='1300'>
-				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
-				<button> <a href='https://www.google.com/'> THE VENUE </a> </button>
+				<div class='col-sm-5' data-aos='slide-up' data-aos-duration='1300'>
+				<h1> WHEN </h1>
+				<p> December 8. 2018 </p>
+				<b> Ceremony begins at 1pm <b>  </p>
+				</div>
+				
+				<div class='col-sm-2' data-aos='slide-up' data-aos-duration='1300'>
+				<p>  </p>
+				<h1> RSVP </h1>
+		       <i class="fa fa-envelope-o fa-3x sr-contact" data-aos='zoom-in-up' data-aos-duration='1300'> </i>
+		        <p> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></p>
 				</div>
 			</div>
 		</div>
@@ -93,21 +107,21 @@
 	  </div>
 	</section>
 
-	<section id="about1" class='section scrollspy'>
+	<!-- <section id="about1" class='section scrollspy'>
 		<div class='container'>
 			<div class='row justify-content-center'>
 				<div class='col-sm-4'>
-				<h1 data-aos='slide-up' data-aos-duration='1300'> Chartreuse woke cardigan hoodie distillery. </h1>
+				<h1 data-aos='slide-up' data-aos-duration='1300'> WHERE. </h1>
 				</div>
 				<div class='col-sm-4' data-aos='slide-up' data-aos-duration='1300'>
-				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
+				<p> Ceremony begins at 1pm  </p>
 				</div>
 				<div class='col-sm-4' data-aos='slide-up' data-aos-duration='1300'>
-				<p> Lorem ipsum dolor amet yOLO kombucha blue bottle deep v four loko, mixtape offal polaroid palo santo yuccie migas humblebrag. Church-key PBR&B tousled tofu. Hexagon humblebrag keffiyeh, drinking vinegar kale chips brunch tote bag banh mi skateboard kinfolk. DIY literally celiac taiyaki shaman locavore knausgaard la croix butcher vegan food truck chillwave cronut synth tattooed. Normcore art party pabst, pour-over ugh tofu next level twee franzen selvage edison bulb lyft polaroid health goth. </p>
+				<p> Venue: The Barn at Liberty Farms </p>
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
 	<section id='gallery2'>
@@ -139,8 +153,7 @@
 	<div class='row'>
 		 <div class='col-sm-6 col-sm-offset-3'>
 			<!--  <div class='col-sm-8'> -->
-			 <h3 data-aos='slide-up' data-aos-duration='1300'> Please let us know if you are attending! As well as your mailing address and some other stuff! Thanks! 
-			 <br> xoxo Jenn and Andrew</h3>
+			 <h3 data-aos='slide-up' data-aos-duration='1300'> We Can't Wait to see you! Please dont forget to RSVP with your adderss! </h3>
 		       <i class="fa fa-envelope-o fa-3x sr-contact" data-aos='zoom-in-up' data-aos-duration='1300'> </i>
 		        <p> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></p>
 	     </div>
