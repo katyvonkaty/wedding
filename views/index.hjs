@@ -78,23 +78,22 @@
 		<div class='container'>
 			<div class='row'>
 				<div class='col-sm-5' data-aos='slide-up' data-aos-duration='1300'>
-				<h1> Where </h1>
-				<p> The Barn at Liberty Farms <p> 
-				<p> 60 Ostrander Rd, Ghent, NY 12075 </p>
-				<p>  (917) 539-9283 </p>
-
+					<h1> Address </h1>
+					<p> Please send me an email with your address so I can send you the wedding invite and get a proper head count. THank you! </p>
+			        <button> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></button>
 				</div>
-				<div class='col-sm-5' data-aos='slide-up' data-aos-duration='1300'>
-				<h1> When </h1>
-				<p> December 8. 2018 </p>
-				<b> Ceremony begins at 1pm <b>  </p>
+
+				<div class='col-sm-3' data-aos='slide-up' data-aos-duration='1300'>
+					<h1> When </h1>
+					<p> December 8th, 2018 </p>
+					<p> Ceremony begins at 1pm </p>
 				</div>
 				
-				<div class='col-sm-2' data-aos='slide-up' data-aos-duration='1300'>
-				<p>  </p>
-				<h1> RSVP </h1>
-		       <i class="fa fa-envelope-o fa-3x sr-contact" data-aos='zoom-in-up' data-aos-duration='1300'> </i>
-		        <p> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></p>
+				<div class='col-sm-3' data-aos='slide-up' data-aos-duration='1300'>
+					<h1> Where </h1>
+					<p> The Barn at Liberty Farms <p> 
+					<p> 60 Ostrander Rd, Ghent, NY 12075 </p>
+					<p> (917) 539-9283 </p>
 				</div>
 			</div>
 		</div>
@@ -153,7 +152,7 @@
 	<div class='row'>
 		 <div class='col-sm-6 col-sm-offset-3'>
 			<!--  <div class='col-sm-8'> -->
-			 <h3 data-aos='slide-up' data-aos-duration='1300'> We Can't Wait to see you! Please dont forget to RSVP with your adderss! </h3>
+			 <h3 data-aos='slide-up' data-aos-duration='1300'> We Can't Wait to see you! Please dont forget to RSVP with your address! </h3>
 		       <i class="fa fa-envelope-o fa-3x sr-contact" data-aos='zoom-in-up' data-aos-duration='1300'> </i>
 		        <p> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></p>
 	     </div>
