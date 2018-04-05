@@ -153,8 +153,8 @@
 		 <div class='col-sm-6 col-sm-offset-3'>
 			<!--  <div class='col-sm-8'> -->
 			 <h3 data-aos='slide-up' data-aos-duration='1300'> We Can't Wait to see you! Please dont forget to RSVP with your address! </h3>
-		       <i class="fa fa-envelope-o fa-3x sr-contact" data-aos='zoom-in-up' data-aos-duration='1300'> </i>
-		        <p> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></p>
+		      
+		       <button> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></button>
 	     </div>
      </div>
     </section>
