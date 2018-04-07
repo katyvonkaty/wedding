@@ -28,14 +28,14 @@
 	            <li class='hidden'>
 	              <a href="galler"></a>
 	            </li>
-	            <li class='page-scroll'>
+	           <!--  <li class='page-scroll'>
 	              <a href="#gallery">Gallery</a>
 	            </li> 
 	            <li class='page-scroll'>
-	              <a href="#about1"> Lodging</a>
-	            </li> 
+	              <a href="#about1"> S</a>
+	            </li>  -->
 	            <li class='page-scroll'>
-	              <a href="#testing">RSVP</a>
+	              <a href="#about">Send Me Your Email!</a>
 	            </li>  
 	          </ul>
 	        </div><!--/.nav-collapse -->
@@ -79,7 +79,7 @@
 			<div class='row'>
 				<div class='col-sm-5' data-aos='slide-up' data-aos-duration='1300'>
 					<h1> Address </h1>
-					<p> Please send me an email with your address so I can send you the wedding invite and get a proper head count. THank you! </p>
+					<p> Please send me an email with your address so I can send you the wedding invite and get a proper head count. Thank you! </p>
 			        <button> <a href="mailto:jenn.ashleigh@gmail.com" >Email me here!</a></button>
 				</div>
 
