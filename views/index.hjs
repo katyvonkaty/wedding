@@ -99,6 +99,19 @@
 		</div>
 	</section>
 
+	<section id="gallery3">
+		<div class='container'>
+			<div class='row'>
+				<div class='col-sm-6' id='third'>
+				<img src='images/6.png' data-aos='fade-up' data-aos-duration='1300'>
+				</div>
+				<div class='col-sm-6' id='fourth'>
+				<img src='images/5.png' data-aos='fade-up' data-aos-duration='1300'>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<section id="cleanser">
 	  <div class='container-fluid'>
 		  <div class='row'>
@@ -138,6 +151,7 @@
 			</div>
 		</div>
 	</section>
+
 
    	<section id="ending">
 	  <div class='container-fluid'>
