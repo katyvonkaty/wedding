@@ -8,12 +8,12 @@
 /* =============================================================================
   HTML, BODY
 ============================================================================= */
-// html,
+/*// html,
 // body {
 //   height: 100%;
 //   width:100%;
 // }
-
+*/
 body {
   font-size: 14px;
   font-family: 'PT Sans', sans-serif;
@@ -82,12 +82,44 @@ h1,h2,h3,h4,h5,h6 {
   -webkit-transition-duration: 1s;
 }
 
-//////////
+#funny {
+  background-image:url('../images/barn.jpg');
+  background-size:cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    height:100vh;
+    h3 {
+      margin-top: 320px;
+      line-height:35px;
+      color:white;
+      text-align:center;
+    }
+    p {
+      font-size:16px;
+      color:white;
+            text-align:center;
 
-////// HEADER ////////////////
+    }
+
+    a {
+      color:white;
+    }
+
+    button {
+      width:40%;
+      background-color:#666;
+      text-align:center;
+      margin: 0 auto;
+      display:block;
+    }
+}
+
+/*//////////
+
+////// HEADER ////////////////*/
 
 #header {
-  h1{
+  h1 {
     font-size:50px;
     text-align:center;
     margin-top:-5px;
@@ -274,6 +306,7 @@ a {
       margin-top:0;
     }
   }
-  
 
 }
+
+
