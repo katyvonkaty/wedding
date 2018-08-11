@@ -99,6 +99,12 @@
 					<p> (917) 539-9283 </p>
 				</div>
 			</div>
+			<div class='row' id='lastmin'>
+			<div class='col-sm-12'>
+			This is a child free wedding, for more information please visit this link.<br>
+			<button> <a href='https://watsonwedding.herokuapp.com/users'></a>Info About Child Care</button>
+			</div>
+			</div>
 		</div>
 	</section>
 

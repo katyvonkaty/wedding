@@ -31,9 +31,9 @@
              <!--  <li class='page-scroll'>
                 <a href="/users.hjs">Gallery</a>
               </li>  -->
-               <li class='page-scroll'>
+             <!--   <li class='page-scroll'>
                 <a href="/users">Gallery</a>
-              </li> 
+              </li>  -->
             <!--   <li class='page-scroll'>
                 <a href="#about1"> S</a>
               </li>  -->
