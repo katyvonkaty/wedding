@@ -83,11 +83,24 @@ h1,h2,h3,h4,h5,h6 {
 }
 
  #lastmin {
+      border-top:1px dotted #eee;
       margin-top:50px;
 
+      .col-sm-12 {
+        margin-top:20px;
+      }
+
       button {
-        width:30%;
+        width:60%;
         margin-top:10px;
+        display:block;
+        float:none;
+
+        @media(min-width:767px){
+          width:40%;
+          margin:0 auto;
+          float:left;
+        }
       }
 
       a {
