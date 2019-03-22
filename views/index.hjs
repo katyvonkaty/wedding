@@ -39,6 +39,9 @@
 	            </li>  -->
 	            <li class='page-scroll'>
 	              <a href="#about">Send Me Your Email!</a>
+	            </li> 
+	            <li class='page-scroll'>
+	              <a href="/omg">Omg</a>
 	            </li>  
 	          </ul>
 	        </div><!--/.nav-collapse -->
